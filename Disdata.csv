@@ -2,7 +2,7 @@ Week,Index,SearchWord,Category,Country
 04-02-2018,39,Florence,All,US
 11-02-2018,40,Florence,All,US
 18-02-2018,40,Florence,All,US
-25-02-2018,43,Florence,All,US
+25-02-2018,19,Florence,All,US
 19-08-2018,39,Florence,All,US
 21-10-2018,40,Florence,All,US
 04-11-2018,40,Florence,All,US
@@ -53,7 +53,7 @@ Week,Index,SearchWord,Category,Country
 30-08-2020,43,Florence,All,US
 06-09-2020,39,Florence,All,US
 13-09-2020,40,Florence,All,US
-20-09-2020,40,Florence,All,US
+20-09-2020,19,Florence,All,US
 27-09-2020,43,Florence,All,US
 04-10-2020,39,Florence,All,US
 11-10-2020,40,Florence,All,US
@@ -144,7 +144,7 @@ Week,Index,SearchWord,Category,Country
 22-04-2018,49,Croatia,All,US
 29-04-2018,52,Croatia,All,US
 16-09-2018,48,Croatia,All,US
-23-09-2018,49,Croatia,All,US
+23-09-2018,91,Croatia,All,US
 30-09-2018,49,Croatia,All,US
 14-10-2018,52,Croatia,All,US
 30-12-2018,48,Croatia,All,US
@@ -221,7 +221,7 @@ Week,Index,SearchWord,Category,Country
 25-03-2018,52,Croatia,All,US
 06-05-2018,48,Croatia,All,US
 13-05-2018,49,Croatia,All,US
-20-05-2018,49,Croatia,All,US
+20-05-2018,89,Croatia,All,US
 26-08-2018,52,Croatia,All,US
 11-11-2018,48,Croatia,All,US
 24-03-2019,49,Croatia,All,US
@@ -18494,7 +18494,7 @@ Week,Index,SearchWord,Category,Country
 08-04-2018,64,Dubai,Travel,GB
 15-04-2018,65,Dubai,Travel,GB
 22-04-2018,65,Dubai,Travel,GB
-29-04-2018,68,Dubai,Travel,GB
+29-04-2018,48,Dubai,Travel,GB
 06-05-2018,64,Dubai,Travel,GB
 13-05-2018,65,Dubai,Travel,GB
 20-05-2018,65,Dubai,Travel,GB
@@ -26869,7 +26869,7 @@ Week,Index,SearchWord,Category,Country
 04-11-2018,60,Italy,Travel,AU
 11-11-2018,56,Italy,Travel,AU
 18-11-2018,57,Italy,Travel,AU
-25-11-2018,57,Italy,Travel,AU
+25-11-2018,67,Italy,Travel,AU
 02-12-2018,60,Italy,Travel,AU
 09-12-2018,56,Italy,Travel,AU
 16-12-2018,57,Italy,Travel,AU
@@ -26913,7 +26913,7 @@ Week,Index,SearchWord,Category,Country
 08-09-2019,60,Italy,Travel,AU
 15-09-2019,56,Italy,Travel,AU
 22-09-2019,57,Italy,Travel,AU
-29-09-2019,57,Italy,Travel,AU
+29-09-2019,47,Italy,Travel,AU
 06-10-2019,60,Italy,Travel,AU
 13-10-2019,56,Italy,Travel,AU
 20-10-2019,57,Italy,Travel,AU
@@ -27001,7 +27001,7 @@ Week,Index,SearchWord,Category,Country
 16-05-2021,60,Italy,Travel,AU
 23-05-2021,56,Italy,Travel,AU
 30-05-2021,57,Italy,Travel,AU
-06-06-2021,57,Italy,Travel,AU
+06-06-2021,87,Italy,Travel,AU
 13-06-2021,60,Italy,Travel,AU
 20-06-2021,56,Italy,Travel,AU
 27-06-2021,57,Italy,Travel,AU
@@ -33135,7 +33135,7 @@ Week,Index,SearchWord,Category,Country
 02-12-2018,82,Barbados,All,IT
 09-12-2018,82,Barbados,All,IT
 16-12-2018,85,Barbados,All,IT
-23-12-2018,81,Barbados,All,IT
+23-12-2018,11,Barbados,All,IT
 30-12-2018,82,Barbados,All,IT
 06-01-2019,82,Barbados,All,IT
 13-01-2019,85,Barbados,All,IT
@@ -39594,4 +39594,4 @@ Week,Index,SearchWord,Category,Country
 29-01-2023,77,Amalfi coast,Travel,IT
 29-01-2023,78,Italian lakes,Travel,IT
 29-01-2023,78,Sardinia,Travel,IT
-29-01-2023,81,Sicily,Travel,IT
+29-01-2023,84,Sicily,Travel,IT
